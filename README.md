@@ -1,16 +1,30 @@
-## Hi there 👋
+# Yo! I'm CoolyDucks 🦆✨
 
-<!--
-**CoolyDucks/CoolyDucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub 😎  
+Here you'll find weird experiments, crazy OS ideas, and random coding shenanigans.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 About Me
+- 🔭 Hacking around with OS projects, Linux tweaks, and mobile stuff  
+- 🌱 Forever learning new tricks in Python, Java, C/C++, and more  
+- 👯 Open for collabs if you’re up for some wild coding adventures  
+- 💬 Ask me about anything techy—yes, even J2ME is fair game  
+- ⚡ Fun fact: I write code just to see if it breaks… and it usually does 😅
+
+---
+
+## 🛠 Stuff I Play With
+- **Languages:** Python, Java, C/C++, Bash, Lua  
+- **Platforms:** Android, Linux, Termux  
+- **Tools:** Git, GitHub, APKTool, VS Code  
+
+---
+
+## 💌 Hit Me Up
+- [LinkedIn](https://www.linkedin.com/in/CoolyDucks)  
+- 📧 Email: peguinboy2015@gmail.com  
+
+---
+
+Thanks for stopping by! Let’s make some chaos in code 🔥💻

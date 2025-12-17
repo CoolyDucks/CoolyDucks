@@ -23,7 +23,13 @@ Here you'll find weird experiments, crazy OS ideas, and random coding shenanigan
 
 ## 💌 Hit Me Up
 - [LinkedIn](https://www.linkedin.com/in/CoolyDucks)  
-- 📧 Email: peguinboy2015@gmail.com  
+- 📧 Email: peguinboy2015@gmail.com
+- 🎓 Workspace mail (proton.me): CoolyDucks@protom.me
+
+
+# Quick tips 🌞
+
+- Vibe Coding Best to you
 
 ---
 

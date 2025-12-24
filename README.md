@@ -24,7 +24,7 @@ Here you'll find weird experiments, crazy OS ideas, and random coding shenanigan
 ## 💌 Hit Me Up
 - [LinkedIn](https://www.linkedin.com/in/CoolyDucks)  
 - 📧 Email: peguinboy2015@gmail.com
-- 🎓 Workspace mail (proton.me): CoolyDucks@protom.me
+- 🎓 Workspace mail (proton.me): CoolyDucks@proton.me (Best One. no doubt)
 
 
 # Quick tips 🌞

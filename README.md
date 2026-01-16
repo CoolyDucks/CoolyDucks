@@ -23,7 +23,7 @@
 
 # my Tools 🤤
 
-- **Tool** : APKtool & gcc & HTML5 engine
+- **Tool** : APKtool & clang lol & HTML5 engine
 
 # Language Programming i use 😆
 
@@ -31,5 +31,6 @@
 - Golang 🚅
 - JS 📃
 - C 🍓
-- WhistlerLang 🎶 ( i made this language ask me will i post it?)
+- WhistlerLang 🎶 ( i made him :D )
+- Zig ⚡
 
